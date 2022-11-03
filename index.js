@@ -1,10 +1,4 @@
 
-function helper(array) {
-  for (const item of array) {
-    return item
-  }
-}
-
 function sumItems(array) {
   let total = 0;
   for (let item of array) {
